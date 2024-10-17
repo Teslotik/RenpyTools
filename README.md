@@ -6,6 +6,10 @@ Collection of tools we use for our visual novels.
 
 Convert drawio diagram to a single rpy file with FSTM class and all transitions.
 
+![](./DrawioToRpy/screenshots/drawio.png)
+
+![](./DrawioToRpy/screenshots/fstm.png)
+
 To make diagram in DrawIO
 
 - add block and write a label inside it
